@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Easy GUI, Great Features, and Customizable"
+  content : "Security and Deployability in one great package. Ready for you, right now"
+  button:
+    enable : true
+    label : "Start Something Great"
+    link : "#contact"

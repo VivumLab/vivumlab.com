@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : File sharing, and Communication
+      icon : ti-upload # themify icon pack : https://themify.me/themify-icons
+      content : Sync, share, and discuss using software that you can trust.
+
+    # service item loop
+    - name : Web
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : From monitoring, to serving your own content. Spend more time on the things that matter.
+
+    # service item loop
+    - name : Identity and Authentication
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Host a password manager, or authenticate your own services. Protect yourself.
+      
+    # service item loop
+    - name : Media
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Hosting digital media, made easy. Enjoy your media libraries, without the struggle
+      
+    # service item loop
+    - name : Automation
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Automate 3D Printers or Houses; check out the automation projects we support.
+      
+    # service item loop
+    - name : Blogging and Social
+      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Got something to say? The fediverse is only a few clicks away
