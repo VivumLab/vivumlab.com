@@ -41,78 +41,136 @@ link = "plugins/lazy-load/lozad.min.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Getting Started"
 url = "#contact"
 weight = 3
 
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 3
-
+[[Languages.en.menu.main]]
+name = "Documentation"
+url = "https://docs.vivumlab.com/"
+weight = 4
 
 ################### Spanish Navigation ########################
 [[Languages.es.menu.main]]
-name = "sobre"
+name = "Sobre"
 url = "#about"
 weight = 1
 
 [[Languages.es.menu.main]]
-name = "los servicios"
+name = "Los servicios"
 url = "#services"
 weight = 2
 
 [[Languages.es.menu.main]]
-name = "contacto"
+name = "Empezando"
 url = "#contact"
 weight = 3
 
+[[Languages.es.menu.main]]
+name = "Documentación"
+url = "https://docs.vivumlab.com/"
+weight = 4
+
+################### French Navigation ########################
+[[Languages.fr.menu.main]]
+name = "Sur"
+url = "#about"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "Un Service"
+url = "#services"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Commencer"
+url = "#contact"
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Documentation"
+url = "https://docs.vivumlab.com/"
+weight = 4
+
+################### German Navigation ########################
+[[Languages.de.menu.main]]
+name = "Um"
+url = "#about"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Dienstleistungen"
+url = "#services"
+weight = 2
+
+[[Languages.de.menu.main]]
+name = "Einstieg"
+url = "#contact"
+weight = 3
+
+[[Languages.de.menu.main]]
+name = "Dokumentation"
+url = "https://docs.vivumlab.com/"
+weight = 4
 
 ################### Portuguese Navigation ########################
 [[Languages.pt.menu.main]]
-name = "sobre"
+name = "Sobre"
 url = "#about"
 weight = 1
 
 [[Languages.pt.menu.main]]
-name = "os serviços"
+name = "Os serviços"
 url = "#services"
 weight = 2
 
 [[Languages.pt.menu.main]]
-name = "contato"
+name = "Começando"
 url = "#contact"
 weight = 3
 
+[[Languages.pt.menu.main]]
+name = "Documentação"
+url = "https://docs.vivumlab.com/"
+weight = 4
+
+################### Esperanto Navigation ########################
+[[Languages.eo.menu.main]]
+name = "Pri"
+url = "#about"
+weight = 1
+
+[[Languages.eo.menu.main]]
+name = "Servoj"
+url = "#services"
+weight = 2
+
+[[Languages.eo.menu.main]]
+name = "Komencante"
+url = "#contact"
+weight = 3
+
+[[Languages.eo.menu.main]]
+name = "Dokumentado"
+url = "https://docs.vivumlab.com/"
+weight = 4
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Deployment to your own infrastructure. Made Easy"
+author = "VivumLab"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -129,58 +187,72 @@ enable = false
 expire_days = 2
 
 ############################# social icons ##########################
-[[params.social]]
+[[params.social]] # GitHub
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/VivumLab/VivumLab"
 
-[[params.social]]
-icon = "ti-world" # themify icon pack : https://themify.me/themify-icons
-link = "#" # mastodon
+[[params.social]] # Discord
+icon = "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://discord.gg/invite/CfXueRYTHJ"
 
-[[params.social]]
-icon = "ti-game" # themify icon pack : https://themify.me/themify-icons
-link = "#" # Discord
+[[params.social]] # Mastodon
+icon = "ti-user" # themify icon pack : https://themify.me/themify-icons
+link = "https://fosstodon.org/@vivumlab"
 
-[[params.social]]
-icon = "ti-ink-pen" # themify icon pack : https://themify.me/themify-icons
-link = "#" # Matrix
-
-[[params.social]]
-icon = "ti-pencil" # themify icon pack : https://themify.me/themify-icons
-link = "#" # Zulip
+[[params.social]] # VivumLab Documentation
+icon = "ti-help" # themify icon pack : https://themify.me/themify-icons
+link = "https://docs.vivumlab.com/"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
 copyright = "VivumLab: 2022. Site powered by [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"
 
-################################ French Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "VivumLab: 2022. Site Web, propulsé par [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"
-
 ################################ Spanish Language ########################
 [Languages.es]
-languageName = "Es"
+languageName = "Español"
 languageCode = "es-es"
 contentDir = "content/spanish"
-weight = 3
+weight = 2
 home = "Inicio"
 copyright = "VivumLab: 2022. Sitio web impulsado por [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"
 
+################################ French Language ########################
+[Languages.fr]
+languageName = "Français"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 3
+home = "Accueil"
+copyright = "VivumLab: 2022. Site Web, propulsé par [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"
+
+################################ German Language ########################
+[Languages.de]
+languageName = "Deutsch"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 4
+home = "Heim"
+copyright = "VivumLab: 2022. Website betrieben von [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"
+
 ################################ Portuguese Language ########################
 [Languages.pt]
-languageName = "Pt"
+languageName = "Português"
 languageCode = "pt-pt"
 contentDir = "content/portuguese"
-weight = 4
+weight = 5
 home = "Começo"
 copyright = "VivumLab: 2022. Site, alimentado por [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"
+
+################################ Esperanto Language ########################
+[Languages.eo]
+languageName = "Esperanto"
+languageCode = "eo-eo"
+contentDir = "content/esperanto"
+weight = 6
+home = "Hejmo"
+copyright = "VivumLab: 2022. Retpaĝon, propulsita de [Hugo](https://gohugo.io/) & [ThemeFisher](https://github.com/themefisher)"

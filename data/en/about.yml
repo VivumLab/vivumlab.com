@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
     title : Easy to deploy
-    content : VivumLab, has a small learning curve, making more possible without the need to learn deploying technologies.
+    content : VivumLab is easy to learn, making more possible without the need to learn deploying technologies.
 
   - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
     title : Open Source
-    content : VivumLab is completely open source; no hidden surprises, and the code is available for review and contribution
+    content : VivumLab is completely open source; no hidden surprises. The code is available for review and contribution.
 
   - icon : ti-shopping-cart # themify icon pack : https://themify.me/themify-icons
     title : Free; Freedom
-    content : Free as in price, and in freedom. VivumLab is all about getting back your own data. Get started now, and be free
+    content : Free as in price, and in freedom. VivumLab is all about getting back your own data. Get started now, and be free.

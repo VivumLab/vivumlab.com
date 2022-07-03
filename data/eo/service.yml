@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Niaj Servoj
+  service_item :
+    # service item loop
+    - name : Dosierinterŝanĝo, kaj Komunikado
+      icon : ti-upload # themify icon pack : https://themify.me/themify-icons
+      content : Akordig, divid, kaj diskuti uzantan softvaron ke vi povas fidi.
+
+    # service item loop
+    - name : Retejo bazita, por la Interreto
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : De kontrol, servanta via propra enhavo. Pasig pli da tempo sur la aferoj gravas.
+
+    # service item loop
+    - name : Identeco kaj Aŭtentikigo
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Gastiganto pasvorto manaĝisto, aŭ aŭtentikig viajn proprajn servojn. Protekti vin.
+      
+    # service item loop
+    - name : Amaskomunikiloj Kolektoj
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Gastigantajn ciferecajn amaskomunikilojn, faciligitan. Povi utiligi por si viaj amaskomunikiloj bibliotekoj, sen la lukto.
+      
+    # service item loop
+    - name : Nubo bazita, kaj Inteligenta Aŭtomatigo
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Aŭtomatig 3D Printilojn aŭ Domoj; rigard la aŭtomacio projektoj ni aprobas.
+      
+    # service item loop
+    - name : Blogado kaj Socia
+      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      content :  Akir ion por diri? La Fediverse nur estas malmultaj klak for. 

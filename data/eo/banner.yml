@@ -5,8 +5,8 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "VivumLab"
-  content : "São seus dados, é a sua vida. Adquira com o VivumLab."
+  content : "Estas viaj datenoj. Estas via vivo. Propra ĝi kun VivumLab."
   button:
     enable : true
-    label : "Implante conosco"
+    label : "Deploj kun ni"
     link : "#services"

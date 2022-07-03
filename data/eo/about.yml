@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title :  Pri Ni
+  about_item :
+  - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+    title : Facile Deploj
+    content : VivumLab estas facile lernebla, faranta pli ebla tiel, ke oni ne dev lerni deploj teknikaroj.
+
+  - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+    title : Malfermitkoda
+    content : VivumLab estas tute malfermitkoda; neniuj kaŝa surprizoj. La kodo estas havebla por revizio kaj kontribuaĵo.
+
+  - icon : ti-shopping-cart # themify icon pack : https://themify.me/themify-icons
+    title : Libera; Libereco
+    content : Libera kiel en prezo, kaj en libereco.  VivumLab tute temas pri reakir via propra datenoj. Ekkomenci nun, kaj esti libera.

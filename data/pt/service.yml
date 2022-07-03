@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Nossos serviços
   service_item :
     # service item loop
-    - name : File sharing, and Communication
+    - name : Compartilhamento de arquivos, e Comunicação
+      icon : ti-upload # themify icon pack : https://themify.me/themify-icons
+      content : Sincronize, compartilhe e discuta usando um software em que você pode confiar.
+
+    # service item loop
+    - name : Baseado na Web, para a Web
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Sync, share, and discuss using software that you can trust.
+      content : Desde o monitoramento até a veiculação de seu próprio conteúdo. Gaste mais tempo com as coisas que importam.
 
     # service item loop
-    - name : Web
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : From monitoring, to serving your own content. Spend more time on the things that matter.
-
+    - name : Identidade e Autenticação
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Hospede um gerenciador de senhas, ou autenticar seus próprios serviços. Proteja-se.
+      
     # service item loop
-    - name : Identity and Authentication
+    - name : Coleções de mídia
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Hospedagem de mídia digital, facilitada. Aproveite suas bibliotecas de mídia, sem esforço.
+      
+    # service item loop
+    - name : Baseado em Nuvem, e Automação Inteligente
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Host a password manager, or authenticate your own services. Protect yourself.
+      content : Automatize Impressoras 3D ou Casas; confira os projetos de automação que apoiamos.
       
     # service item loop
-    - name : Media
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Hosting digital media, made easy. Enjoy your media libraries, without the struggle
-      
-    # service item loop
-    - name : Automation
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Automate 3D Printers or Houses; check out the automation projects we support.
-      
-    # service item loop
-    - name : Blogging and Social
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Got something to say? The fediverse is only a few clicks away
+    - name : Blogs e redes sociais
+      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Tem algo a dizer? O Fediverse está a apenas alguns cliques de distância.

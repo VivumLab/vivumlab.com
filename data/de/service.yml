@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Unsere Leistungen
+  service_item :
+    # service item loop
+    - name : Datenaustausch und Kommunikation
+      icon : ti-upload # themify icon pack : https://themify.me/themify-icons
+      content : Synchronisieren, teilen und diskutieren Sie mit einer Software, der Sie vertrauen können.
+
+    # service item loop
+    - name : Webbasiert, für das Netz
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Von der Überwachung bis zur Bereitstellung Ihrer eigenen Inhalte. Verbringen Sie mehr Zeit mit den wichtigen Dingen.
+
+    # service item loop
+    - name : Identität und Authentifizierung
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Hosten Sie einen Passwort-Manager oder authentifizieren Sie Ihre eigenen Dienste. Schütze dich selbst.
+      
+    # service item loop
+    - name : Mediensammlungen
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Hosting digitaler Medien leicht gemacht. Genießen Sie Ihre Medienbibliotheken ohne Probleme.
+      
+    # service item loop
+    - name : Cloudbasierte, und intelligente Automatisierung
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Automatisieren Sie 3D-Drucker oder -Häuser; Sehen Sie sich die Automatisierungsprojekte an, die wir unterstützen.
+      
+    # service item loop
+    - name : Bloggen und Soziales
+      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Haben Sie etwas zu sagen? Das Fediverse ist nur wenige Klicks entfernt.

@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Interface de usuário da Web moderna, intuitiva e dinâmica"
-  content : "Segurança e Implementabilidade. Com Conveniência"
+  title : "Moderna Reta Interfaco, Intuicia kaj Dinamika"
+  content : "Sekureco kaj Deplojebleco. Kun Komforto"
   button:
     enable : true
-    label : "Comece algo bom"
+    label : " Komenco aĵo bona"
     link : "#contact"

@@ -1,26 +1,30 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
+  title : Empezando
+  subtitle : 'Lugares útiles:'
+  content: '(ENLACES A CONTINUACIÓN)'
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Location: Worldwide"
+  - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    info : "GITHUB: https://github.com/VivumLab/VivumLab"
 
-    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-      info : "Github: https://github.com/VivumLab/VivumLab"
+  - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+    info : "DISCORD: https://discord.com/invite/CfXueRYTHJ"
 
-    - icon : ti-user # themify icon pack : https://themify.me/themify-icons
-      info : "Support: Check the documentation, or Contact us"
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    info : "MASTODON: https://fosstodon.org/@vivumlab"
+  
+  - icon : ti-help # themify icon pack : https://themify.me/themify-icons
+    info : "DOCUMENTACIÓN: https://docs.vivumlab.com/"
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "Su Nombre"
+    email : "Su correo electrónico"
+    subject : "Sujeto"
+    message : "Mensaje"
+    submit : "Enviar"

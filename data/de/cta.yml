@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Interface de usuário da Web moderna, intuitiva e dinâmica"
-  content : "Segurança e Implementabilidade. Com Conveniência"
+  title : "Moderne Web-UI, intuitiv und dynamisch"
+  content : "Sicherheit und Einsatzfähigkeit. Mit Komfort"
   button:
     enable : true
-    label : "Comece algo bom"
+    label : "Starten Sie etwas Großartiges"
     link : "#contact"

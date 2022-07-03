@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Commencer
-  subtitle : 'Lieux utiles:'
-  content: '(LIENS CI-DESSOUS)'
+  title : Ekkomenci
+  subtitle : 'Utilajn Lokojn:'
+  content: '(LIGILOJ MALSUPRE)'
 
   # Contact details
   contact_list:
@@ -17,14 +17,15 @@ contact:
     info : "MASTODON: https://fosstodon.org/@vivumlab"
   
   - icon : ti-help # themify icon pack : https://themify.me/themify-icons
-    info : "DOCUMENTATION: https://docs.vivumlab.com/"
+    info : "DOKUMENTADO: https://docs.vivumlab.com/"
+
 
   # Contact form
   contact_form:
     enable : false
     form_action : "#" #contact form works with https://formspree.io
-    name : "Votre nom"
-    email : "Votre e-mail"
-    subject : "le sujet"
-    message : "Message"
-    submit : "Soumettre"
+    name : " Via Nomo"
+    email : "Via Retpoŝto"
+    subject : "Temo"
+    message : "Mesaĝo"
+    submit : "Submetiĝi"

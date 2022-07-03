@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "It's your data, it's your life"
-  content : "Own it with VivumLab. "
+  title : "VivumLab"
+  content : "Son tus datos, Es tu vida. Hazte con VivumLab."
   button:
     enable : true
-    label : "Deploy with us"
+    label : "Desplegar con nosotros"
     link : "#services"

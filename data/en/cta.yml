@@ -3,8 +3,8 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Easy GUI, Great Features, and Customizable"
-  content : "Security and Deployability in one great package. Ready for you, right now"
+  title : "Modern Web UI, Intuitive, and Dynamic"
+  content : "Security and Deployability. With Convenience"
   button:
     enable : true
     label : "Start Something Great"

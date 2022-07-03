@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Sobre Nosotros
   about_item :
   - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
-    title : Easy to deploy
-    content : VivumLab, has a small learning curve, making more possible without the need to learn deploying technologies.
+    title : Fácil de Implementar
+    content : VivumLab es fácil de aprender, haciendo más posible sin necesidad de aprender a implementar tecnologías.
 
   - icon : ti-eye # themify icon pack : https://themify.me/themify-icons
-    title : Open Source
-    content : VivumLab is completely open source; no hidden surprises, and the code is available for review and contribution
+    title : Código Abierto
+    content : VivumLab es completamente de código abierto; sin sorpresas ocultas. El código está disponible para su revisión y contribución.
 
   - icon : ti-shopping-cart # themify icon pack : https://themify.me/themify-icons
-    title : Free; Freedom
-    content : Free as in price, and in freedom. VivumLab is all about getting back your own data. Get started now, and be free
+    title : Gratis; Libertad
+    content : Gratis como en el precio, y en libertad. VivumLab se trata de recuperar sus propios datos. Empieza ahora, y se libre.

@@ -644,12 +644,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #ffffff;
 }
 
 .call-to-action p {
-  font-size: 16px;
-  color: #666;
+  font-size: 22px;
+  color: #ffffff;
 }
 
 .call-to-action .btn-main {
@@ -680,6 +680,7 @@ a:hover {
 
 .contact-us {
   padding-top: 50px;
+  text-align: right;
 }
 
 @media (max-width: 768px) {
@@ -737,6 +738,7 @@ a:hover {
 
 .con-info {
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .con-info i,
